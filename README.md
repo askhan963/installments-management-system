@@ -2,7 +2,7 @@
 
 A React Native application to assist users in managing their installments, allowing them to schedule, view, and keep track of various payments.
 
-<img src="https://github.com/askhan963/installments-management-system/blob/main/ims.jpg" width="600" alt="Insert IMS Screenshot Here">
+<img src="https://github.com/askhan963/installments-management-system/blob/main/ims.jpg" width="200" align="center" alt="Insert IMS Screenshot Here">
 
 ## Table of Contents
 
